@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.unlimited-nbt-size.refmap.json",
+    "package": "rmc.mixins.unlimited_nbt_size.actual",
+    "mixins": [
+        "NBTSizeTrackerMixin"
+    ]
+}
